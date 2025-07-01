@@ -54,7 +54,7 @@ console.log(allStudents);
 allStidents.splice(3,1,`Samantha`, `jonathan`);
 console.log(allStudents);
 
-
+s
 
 
 

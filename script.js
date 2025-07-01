@@ -51,7 +51,7 @@ const allStidents = classA.concat(classB);
 console.log(classA);
 console.log(classB);
 console.log(allStudents);
-
+allStidents.splice(3,1,"Samantha")
 
 
 
